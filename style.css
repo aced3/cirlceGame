@@ -48,27 +48,27 @@ body {
 }
 .d2 {
     top: 0;
-    transform: rotate(30deg)
+    transform: rotate(22.5deg)
 }
 .d3 {
     top: 0;
-    transform: rotate(60deg)
+    transform: rotate(45deg)
 }
 .d4 {
     top: 0;
-    transform: rotate(90deg)
+    transform: rotate(67.5deg)
 }
 .d5 {
     top: 0;
-    transform: rotate(120deg)
+    transform: rotate(90deg)
 }
 .d6 {
     top: 0;
-    transform: rotate(150deg)
+    transform: rotate(112.5deg)
 }
 .d7 {
     top: 0;
-    transform: rotate(180deg)
+    transform: rotate(135deg)
 }
 .d8 {
     top: 0;
